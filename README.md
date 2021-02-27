@@ -10,6 +10,7 @@
 ```
 #
 ```
+💻 > If you want contacts me you can send a mail to : Ayanodiep.io@gmail.com
 
 ```
 #
