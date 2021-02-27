@@ -8,7 +8,6 @@
  💻 > Passionate about programming, hacking and technology in generality.
  🤝 > Discord : Pusha-T#6666
 ```
-#
 ```
 >~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
