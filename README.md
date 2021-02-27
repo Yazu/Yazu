@@ -9,8 +9,6 @@
  🤝 > Discord : Pusha-T#6666
 ```
 ```
->~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 🔸 > Python (learning.)
 🔸 > C (learning.)
 🔸 > Rust (will learning.)
