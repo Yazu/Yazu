@@ -9,10 +9,6 @@
  🤝 > Discord : Pusha-T#6666
 ```
 #
-```
-💻 > If you want contacts me you can send a mail to : Ayanodiep.io@gmail.com
-
-```
 #
 ```
 >~~~~~~~~~~~~~~~~~~~~~~~~~~~~
