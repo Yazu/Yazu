@@ -4,11 +4,8 @@
 -----  
 <!--START_SECTION:waka-->
 ```diff
- 🚀 > French C, Rust developper.
+ 🚀 > French Python And Rust devloper.
  💻 > Passionate about programming, hacking and technology in generality.
  🤝 > Discord : Yazumi 🦀#2528
 ```
-```
-🔸 > C (learning.)
-🔸 > Rust (will learning.)
-```
+
